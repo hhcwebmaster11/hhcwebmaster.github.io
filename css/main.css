@@ -46,4 +46,23 @@ li a:hover:not(.active) {
 
 p{
 	font-size: 0.4em;
+	margin-top: 1em;
+	margin-left: 4em;
+	margin-right: 4em;
+}
+
+#face{
+	font-size: 0.4em;
+	margin-top: 1em;
+	margin-left: 4em;
+	margin-right: 4em;
+}
+
+#herm{
+	float: left;
+	width: 45%;
+}
+
+#craig{
+	float: left;
 }
